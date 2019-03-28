@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CommBetweenFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message_fragment_editText_hint">enter a message</string>
+    <string name="message_fragment_button_send">SEND</string>
+</resources>
